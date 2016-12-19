@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Default suite" verbose="1">
+ <test name="Role">
+    <classes>
+      <class name="com.action.administration.AddRoleAction"/>
+    </classes>
+  </test> 
+  <!-- <test name="User">
+    <classes>
+      <class name="com.action.administration.AddUserAction"/>
+    </classes>
+  </test>
+ <test name="RatePlan">
+    <classes>
+      <class name="com.action.hospitalBillingMasters.NewRatePlanAction"/>
+    </classes>
+  </test>
+  <test name="OpReg">
+    <classes>
+      <class name="com.action.registration.RegOPAction"/>
+    </classes>
+  </test>
+  <test name="User">
+    <classes>
+      <class name="com.action.UserLoginAction"/>
+    </classes>
+  </test> -->
+</suite> <!-- Default suite -->

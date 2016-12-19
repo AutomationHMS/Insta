@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49461" started-at="2016-12-16T12:57:10Z" finished-at="2016-12-16T12:57:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49461" started-at="2016-12-16T12:57:10Z" finished-at="2016-12-16T12:57:59Z">
+      <class name="com.action.administration.AddRoleAction">
+        <test-method status="PASS" signature="launch()[pri:0, instance:com.action.administration.AddRoleAction@68e965f5]" name="launch" is-config="true" duration-ms="2121" started-at="2016-12-16T18:27:10Z" finished-at="2016-12-16T18:27:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="createRole()[pri:0, instance:com.action.administration.AddRoleAction@68e965f5]" name="createRole" duration-ms="47327" started-at="2016-12-16T18:27:12Z" finished-at="2016-12-16T18:27:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createRole -->
+      </class> <!-- com.action.administration.AddRoleAction -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
